@@ -1,0 +1,3 @@
+[submodule "cpp-chess"]
+	path = cpp-chess
+	url = git@github.com:jnewberry0502/cpp-chess.git
